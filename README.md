@@ -8,3 +8,5 @@ Another another change.
 And a second commit.
 
 And a third.
+
+Commit straight to master
